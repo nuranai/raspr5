@@ -1,0 +1,3 @@
+﻿  lab5.cpp
+D:\ProgramFiles\raspr\lab5\lab5\lab5.cpp(5,5): warning C4101: 'i': unreferenced local variable
+  lab5.vcxproj -> D:\ProgramFiles\raspr\lab5\x64\Debug\lab5.exe
